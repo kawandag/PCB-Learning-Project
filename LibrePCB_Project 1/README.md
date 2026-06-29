@@ -55,22 +55,7 @@ Through this project, I gained practical experience with:
 - Generating manufacturing-ready files for PCB fabrication
 - Visualizing the completed PCB in 3D
 
-## Repository Contents
-
-```
-├── LibrePCB_Project/
-├── output/
-│   ├── Gerbers/
-│   ├── BOM/
-│   ├── Pick_and_Place/
-│   ├── PDFs/
-│   └── Archives/
-├── images/
-│   ├── schematic.png
-│   ├── pcb_layout.png
-│   └── pcb_3d.png
-└── README.md
-```
+<img width="706" height="499" alt="image" src="https://github.com/user-attachments/assets/04eb6030-6dd0-4009-a61f-166feff7e17d" />
 
 ## Future Enhancements
 
