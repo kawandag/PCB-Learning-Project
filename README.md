@@ -1,4 +1,3 @@
-# AI_PCB Learning Portfolio
 
 # AI & PCB Learning Portfolio
 
