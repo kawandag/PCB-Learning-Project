@@ -71,6 +71,4 @@ Future projects will build upon this foundation by incorporating:
 
 ---
 
-**Author:** Kay G  
-**Project:** LED Learning PCB  
-**Software:** LibrePCB 2.1.1
+
