@@ -1,0 +1,15 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,2.1.1
+; #@! TF.CreationDate,2026-06-29T08:36:02
+; #@! TF.ProjectId,LED_Learning (default),b06f7473-6a24-4fa5-af31-87322aa3678a,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+%
+G90
+G05
+M71
+T0
+M30
