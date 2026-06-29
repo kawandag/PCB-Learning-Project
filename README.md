@@ -4,7 +4,7 @@
 
 Welcome to my AI and Electronics Design Automation (EDA) learning portfolio.
 
-This repository documents my hands-on journey in learning **printed circuit board (PCB) design, circuit simulation, and AI-assisted engineering workflows**. As a technology professional with over 15 years of experience in enterprise systems, cloud technologies, automation, and artificial intelligence, I created this portfolio to expand my knowledge of electronics design while documenting each project from concept to completion.
+This repository documents my hands-on journey in learning printed circuit board (PCB) design, circuit simulation, and AI-assisted engineering workflows. As a technology professional with over 15 years of experience in enterprise systems, cloud technologies, automation, and artificial intelligence, I created this portfolio to expand my knowledge of electronics design while documenting each project from concept to completion.
 
 This portfolio demonstrates my commitment to continuous learning and showcases practical projects that combine software engineering, AI, and electronic design.
 
